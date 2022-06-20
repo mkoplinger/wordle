@@ -1,0 +1,9 @@
+.vscode
+bin
+obj
+words*
+all_results*
+best_score*
+score*
+test.txt
+token.txt
